@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Usb",
+        "price": 12000,
+        "img":"/img/usb.jpg" 
+    },
+    {
+        "id": 2,
+        "name": "computador",
+        "price": 1020000,
+        "img":"/img/compu.jpg" 
+    },
+    {
+        "id": 3,
+        "name": "Mouse",
+        "price": 50000,
+        "img":"/img/mouse.jpg" 
+    },
+    {
+        "id": 4,
+        "name": "Monitor",
+        "price": 350000,
+        "img":"/img/monitor.jpg" 
+    }
+]
